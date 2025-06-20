@@ -58,10 +58,3 @@ WHERE emailaddress IS NULL OR email_id BETWEEN 1 and 3;
 
 
 
-SOURCE /Users/geethareddy/Downloads/sakila-db/sakila-schema.sql;
-SOURCE /Users/geethareddy/Downloads/sakila-db/sakila-data.sql;
-
-
-SOURCE /Users/geethareddy/Downloads/sakila-db/sakila-schema.sql;
-SOURCE /Users/geethareddy/Downloads/world-db/world.sql;
-
